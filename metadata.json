@@ -1,0 +1,7 @@
+{
+  "name": "Zombie FPS 2D",
+  "description": "An intense top-down survival shooter where you face endless waves of the undead, featuring AI-generated tactical intel and mutation reports powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
